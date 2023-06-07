@@ -7,4 +7,4 @@
 3. Push to the branch (`git push origin feature/cool-feature`)
 4. Open a pull request
 
-&nbsp; &nbsp; (<a href="#top">back to top</a>)
+&nbsp; &nbsp; &nbsp; (<a href="#top">back to top</a>)
